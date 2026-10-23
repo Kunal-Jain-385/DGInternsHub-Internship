@@ -128,7 +128,7 @@ Save the cheat sheet in `Cheat Sheet/`.
 
 Complete the following documents:
 
-1. **Week 1 Weekly Work Report.pdf** — Summary of objectives, activities, practical work, findings, challenges, and outcomes.
+1. **Week 1 Weekly Work Report.pdf** - Summary of objectives, activities, practical work, findings, challenges, and outcomes.
 2. **Week 1 Presentation Report.pptx** — Presentation of the lab setup, key concepts, practical exercises, evidence, and learning outcomes.
 3. **Week 1 README.docx** — Documentation of the folder structure, weekly objectives, workflow, and completion status.
 
