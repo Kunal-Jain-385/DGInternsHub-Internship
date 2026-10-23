@@ -176,5 +176,3 @@ By the end of Week 1, the following outcomes should be achieved:
 ## 6\. Conclusion
 
 Week 1 establishes the foundation for practical cybersecurity learning by combining theoretical knowledge with hands-on Linux administration, networking, and beginner-level security exercises. Maintaining an organized folder structure, collecting genuine evidence, following safe lab practices, and documenting each activity will make the work easier to review and build upon in subsequent weeks.
-
-**Note:** Mark an activity as complete only after performing it and verifying the result. Update this README whenever the project structure or weekly requirements change.
