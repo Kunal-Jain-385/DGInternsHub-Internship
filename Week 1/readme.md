@@ -1,6 +1,6 @@
 Writing
 
-# DG Interns HUB - Week 1 README
+# DG Interns HUB - Week 1
 
 ## 1\. Week 1 Objective
 
