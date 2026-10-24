@@ -36,9 +36,7 @@ DG Interns HUB/
     │   ├── Ubuntu_Exercises/
     │   │   └── Accounts, groups, permissions, commands and cron
     │   ├── Network_Documentation/
-    │   │   └── IP inventory and topology diagram
-    │   └── Bandit_Evidence/
-    │       └── Progress screenshots without credentials
+    │       └── IP inventory and topology diagram  
     │
     ├── Cheat Sheet/
     │   └── Linux_Command_Reference
