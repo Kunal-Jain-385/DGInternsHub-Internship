@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE nmaprun>
+<?xml-stylesheet href="file:///usr/share/nmap/nmap.xsl" type="text/xsl"?>
+<!-- Nmap 7.99 scan initiated Thu Oct 29 13:38:06 2026 as: /usr/lib/nmap/nmap -sn -oN windows-sn.txt -oX windows-sn.xml 192.168.195.134 -->
+<nmaprun scanner="nmap" args="/usr/lib/nmap/nmap -sn -oN windows-sn.txt -oX windows-sn.xml 192.168.195.134" start="1793261286" startstr="Thu Oct 29 13:38:06 2026" version="7.99" xmloutputversion="1.05">
+<verbose level="0"/>
+<debugging level="0"/>
+<host><status state="up" reason="arp-response" reason_ttl="0"/>
+<address addr="192.168.195.134" addrtype="ipv4"/>
+<address addr="00:0C:29:CC:7D:6D" addrtype="mac" vendor="VMware"/>
+<hostnames>
+</hostnames>
+<times srtt="7273" rttvar="7273" to="100000"/>
+</host>
+<runstats><finished time="1793261287" timestr="Thu Oct 29 13:38:07 2026" summary="Nmap done at Thu Oct 29 13:38:07 2026; 1 IP address (1 host up) scanned in 0.81 seconds" elapsed="0.81" exit="success"/><hosts up="1" down="0" total="1"/>
+</runstats>
+</nmaprun>

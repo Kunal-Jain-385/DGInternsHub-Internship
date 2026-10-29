@@ -1,0 +1,9 @@
+# Nmap 7.99 scan initiated Thu Oct 29 12:52:52 2026 as: /usr/lib/nmap/nmap -sS -oN ubuntu-sS.txt -oX ubuntu-sS.xml 192.168.195.133
+Nmap scan report for 192.168.195.133
+Host is up (0.0026s latency).
+Not shown: 999 closed tcp ports (reset)
+PORT   STATE SERVICE
+80/tcp open  http
+MAC Address: 00:0C:29:E3:49:EE (VMware)
+
+# Nmap done at Thu Oct 29 12:52:53 2026 -- 1 IP address (1 host up) scanned in 0.85 seconds

@@ -1,0 +1,34 @@
+# Nmap 7.99 scan initiated Thu Oct 29 13:41:43 2026 as: /usr/lib/nmap/nmap -A -oN windows-A.txt -oX windows-A.xml 192.168.195.134
+Nmap scan report for 192.168.195.134
+Host is up (0.0014s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+| rdp-ntlm-info: 
+|   Target_Name: DESKTOP-7BFC9O7
+|   NetBIOS_Domain_Name: DESKTOP-7BFC9O7
+|   NetBIOS_Computer_Name: DESKTOP-7BFC9O7
+|   DNS_Domain_Name: DESKTOP-7BFC9O7
+|   DNS_Computer_Name: DESKTOP-7BFC9O7
+|   Product_Version: 10.0.19041
+|_  System_Time: 2026-10-29T08:12:05+00:00
+| ssl-cert: Subject: commonName=DESKTOP-7BFC9O7
+| Not valid before: 2026-06-08T15:06:31
+|_Not valid after:  2026-12-08T15:06:31
+|_ssl-date: 2026-10-29T08:12:09+00:00; 0s from scanner time.
+5357/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+|_http-server-header: Microsoft-HTTPAPI/2.0
+|_http-title: Service Unavailable
+MAC Address: 00:0C:29:CC:7D:6D (VMware)
+Warning: OSScan results may be unreliable because we could not find at least 1 open and 1 closed port
+OS fingerprint not ideal because: Missing a closed TCP port so results incomplete
+No OS matches for host
+Network Distance: 1 hop
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+TRACEROUTE
+HOP RTT     ADDRESS
+1   1.43 ms 192.168.195.134
+
+OS and Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Oct 29 13:42:09 2026 -- 1 IP address (1 host up) scanned in 26.74 seconds

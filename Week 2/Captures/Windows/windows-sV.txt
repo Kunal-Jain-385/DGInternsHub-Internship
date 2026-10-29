@@ -1,0 +1,12 @@
+# Nmap 7.99 scan initiated Thu Oct 29 13:39:23 2026 as: /usr/lib/nmap/nmap -sV -oN windows-sV.txt -oX windows-sV.xml 192.168.195.134
+Nmap scan report for 192.168.195.134
+Host is up (0.00076s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE       VERSION
+3389/tcp open  ms-wbt-server Microsoft Terminal Services
+5357/tcp open  http          Microsoft HTTPAPI httpd 2.0 (SSDP/UPnP)
+MAC Address: 00:0C:29:CC:7D:6D (VMware)
+Service Info: OS: Windows; CPE: cpe:/o:microsoft:windows
+
+Service detection performed. Please report any incorrect results at https://nmap.org/submit/ .
+# Nmap done at Thu Oct 29 13:39:41 2026 -- 1 IP address (1 host up) scanned in 17.80 seconds

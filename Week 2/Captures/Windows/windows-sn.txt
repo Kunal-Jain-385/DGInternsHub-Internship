@@ -1,0 +1,5 @@
+# Nmap 7.99 scan initiated Thu Oct 29 13:38:06 2026 as: /usr/lib/nmap/nmap -sn -oN windows-sn.txt -oX windows-sn.xml 192.168.195.134
+Nmap scan report for 192.168.195.134
+Host is up (0.0073s latency).
+MAC Address: 00:0C:29:CC:7D:6D (VMware)
+# Nmap done at Thu Oct 29 13:38:07 2026 -- 1 IP address (1 host up) scanned in 0.81 seconds

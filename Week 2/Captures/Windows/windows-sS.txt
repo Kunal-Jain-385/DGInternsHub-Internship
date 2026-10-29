@@ -1,0 +1,10 @@
+# Nmap 7.99 scan initiated Thu Oct 29 13:38:45 2026 as: /usr/lib/nmap/nmap -sS -oN windows-sS.txt -oX windows-sS.xml 192.168.195.134
+Nmap scan report for 192.168.195.134
+Host is up (0.0017s latency).
+Not shown: 998 filtered tcp ports (no-response)
+PORT     STATE SERVICE
+3389/tcp open  ms-wbt-server
+5357/tcp open  wsdapi
+MAC Address: 00:0C:29:CC:7D:6D (VMware)
+
+# Nmap done at Thu Oct 29 13:38:50 2026 -- 1 IP address (1 host up) scanned in 5.51 seconds
